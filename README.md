@@ -9,7 +9,7 @@
     </ul>
   </div>
   
-  <p>On-prem DB to Azure Cloud Pipeline with Data Factory, Lake Storage, Spark, Databricks, Synapse, PowerBI</p>
+  <p>On-prem DB to Azure Cloud Pipeline with Data Factory, Lake Storage, Spark, Databricks, Synapse</p>
 </div>
 <br>
 
